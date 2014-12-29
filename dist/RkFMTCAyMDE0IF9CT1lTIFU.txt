@@ -1,0 +1,359 @@
+<p>&nbsp;</p>
+
+<h1>FALL 2014 &nbsp;BOYS U6</h1>
+
+<h2>GAMES AT RUSTCRAFT</h2>
+
+<p><br />
+<style type="text/css">
+h1,h2,p{
+   text-align:center;
+}
+h2{
+   margin-bottom: 0px;
+}
+table.tableizer-table {
+    margin: 0 auto; 
+	border: 1px solid #CCC; font-family: Arial, Helvetica, sans-serif
+	font-size: 12px;
+} 
+.tableizer-table td {
+    text-align: center;
+	padding: 4px;
+	margin: 3px;
+	border: 1px solid #ccc;
+}
+.tableizer-table th {
+	background-color: #B33333; 
+	color: #FFF;
+	font-weight: bold;
+}
+</style>
+</p>
+<div style="margin: 0 auto;display: table;">
+<table class="tableizer-table" style="float:left">
+	<tbody>
+		<tr class="tableizer-firstrow">
+			<th>DAY</th>
+			<th>DATE</th>
+			<th>&nbsp;TIME&nbsp;</th>
+			<th>&nbsp;HOME TEAM&nbsp;</th>
+			<th>&nbsp;AWAY TEAM&nbsp;</th>
+		</tr> 
+    <tr>
+			<td>SATURDAY </td>
+			<td>09/06/14	</td>
+		        <td style="border:none">&nbsp</td>
+			<td style="border:none">&nbsp</td>
+			<td style="border:none">&nbsp</td>
+                  </tr>
+<tr>
+			<td style="border:none">&nbsp</td>
+                       	<td style="border:none">&nbsp</td>	
+                        <td>12:00</td>
+	                <td>1</td>
+	                <td>2</td>
+	          </tr>
+<tr>
+			<td style="border:none">&nbsp</td>
+                       	<td style="border:none">&nbsp</td>	
+                        <td>1:00</td>
+	                <td>3</td>
+	                <td>5</td>
+	          </tr>
+<tr>
+			<td style="border:none">&nbsp</td>
+                       	<td style="border:none">&nbsp</td>	
+                        <td>2:00</td>
+	                <td>4</td>
+	                <td>6</td>
+	          </tr>
+    <tr>
+			<td>SATURDAY	</td>
+			<td>09/13/14	</td>
+		        <td style="border:none">&nbsp</td>
+			<td style="border:none">&nbsp</td>
+			<td style="border:none">&nbsp</td>
+                  </tr>
+<tr>
+			<td style="border:none">&nbsp</td>
+                       	<td style="border:none">&nbsp</td>	
+                        <td>12:00</td>
+	                <td>3</td>
+	                <td>1</td>
+	          </tr>
+<tr>
+			<td style="border:none">&nbsp</td>
+                       	<td style="border:none">&nbsp</td>	
+                        <td>1:00</td>
+	                <td>6</td>
+	                <td>2</td>
+	          </tr>
+<tr>
+			<td style="border:none">&nbsp</td>
+                       	<td style="border:none">&nbsp</td>	
+                        <td>2:00</td>
+	                <td>5</td>
+	                <td>4</td>
+	          </tr>
+    <tr>
+			<td>SATURDAY	</td>
+			<td>09/20/14	</td>
+		        <td style="border:none">&nbsp</td>
+			<td style="border:none">&nbsp</td>
+			<td style="border:none">&nbsp</td>
+                  </tr>
+<tr>
+			<td style="border:none">&nbsp</td>
+                       	<td style="border:none">&nbsp</td>	
+                        <td>12:00</td>
+	                <td>1</td>
+	                <td>4</td>
+	          </tr>
+<tr>
+			<td style="border:none">&nbsp</td>
+                       	<td style="border:none">&nbsp</td>	
+                        <td>1:00</td>
+	                <td>5</td>
+	                <td>6</td>
+	          </tr>
+<tr>
+			<td style="border:none">&nbsp</td>
+                       	<td style="border:none">&nbsp</td>	
+                        <td>2:00</td>
+	                <td>2</td>
+	                <td>3</td>
+	          </tr>
+    <tr>
+			<td>SATURDAY	</td>
+			<td>09/27/14	</td>
+		        <td style="border:none">&nbsp</td>
+			<td style="border:none">&nbsp</td>
+			<td style="border:none">&nbsp</td>
+                  </tr>
+<tr>
+			<td style="border:none">&nbsp</td>
+                       	<td style="border:none">&nbsp</td>	
+                        <td>12:00</td>
+	                <td>5</td>
+	                <td>1</td>
+	          </tr>
+<tr>
+			<td style="border:none">&nbsp</td>
+                       	<td style="border:none">&nbsp</td>	
+                        <td>1:00</td>
+	                <td>4</td>
+	                <td>2</td>
+	          </tr>
+<tr>
+			<td style="border:none">&nbsp</td>
+                       	<td style="border:none">&nbsp</td>	
+                        <td>2:00</td>
+	                <td>6</td>
+	                <td>3</td>
+	          </tr>
+    <tr>
+			<td>SATURDAY	</td>
+			<td>10/04/14	</td>
+		        <td style="border:none">&nbsp</td>
+			<td style="border:none">&nbsp</td>
+			<td style="border:none">&nbsp</td>
+                  </tr>
+<tr>
+			<td style="border:none">&nbsp</td>
+                       	<td style="border:none">&nbsp</td>	
+                        <td>12:00</td>
+	                <td>3</td>
+	                <td>4</td>
+	          </tr>
+<tr>
+			<td style="border:none">&nbsp</td>
+                       	<td style="border:none">&nbsp</td>	
+                        <td>1:00</td>
+	                <td>2</td>
+	                <td>5</td>
+	          </tr>
+<tr>
+			<td style="border:none">&nbsp</td>
+                       	<td style="border:none">&nbsp</td>	
+                        <td>2:00</td>
+	                <td>1</td>
+	                <td>6</td>
+	          </tr>
+</tbody>
+   </table>
+<div style="float:left;width:10px">&nbsp;</div>
+<table class="tableizer-table" style="float:right">
+	<tbody>
+		<tr class="tableizer-firstrow">
+			<th>DAY</th>
+			<th>DATE</th>
+			<th>&nbsp;TIME&nbsp;</th>
+			<th>&nbsp;HOME TEAM&nbsp;</th>
+			<th>&nbsp;AWAY TEAM&nbsp;</th>
+		</tr> 
+    <tr>
+			<td>SATURDAY</td>
+			<td>10/18/14	</td>
+		        <td style="border:none">&nbsp</td>
+			<td style="border:none">&nbsp</td>
+			<td style="border:none">&nbsp</td>
+                  </tr>
+<tr>
+			<td style="border:none">&nbsp</td>
+                       	<td style="border:none">&nbsp</td>	
+                        <td>9:00</td>
+	                <td>6</td>
+	                <td>4</td>
+	          </tr>
+<tr>
+			<td style="border:none">&nbsp</td>
+                       	<td style="border:none">&nbsp</td>	
+                        <td>10:00</td>
+	                <td>2</td>
+	                <td>1</td>
+	          </tr>
+<tr>
+			<td style="border:none">&nbsp</td>
+                       	<td style="border:none">&nbsp</td>	
+                        <td>11:00</td>
+	                <td>5</td>
+	                <td>3</td>
+	          </tr>
+    <tr>
+			<td>SUNDAY	</td>
+			<td>10/19/14	</td>
+		        <td style="border:none">&nbsp</td>
+			<td style="border:none">&nbsp</td>
+			<td style="border:none">&nbsp</td>
+                  </tr>
+<tr>
+			<td style="border:none">&nbsp</td>
+                       	<td style="border:none">&nbsp</td>	
+                        <td>9:00</td>
+	                <td>1</td>
+	                <td>3</td>
+	          </tr>
+<tr>
+			<td style="border:none">&nbsp</td>
+                       	<td style="border:none">&nbsp</td>	
+                        <td>10:00</td>
+	                <td>4</td>
+	                <td>5</td>
+	          </tr>
+<tr>
+			<td style="border:none">&nbsp</td>
+                       	<td style="border:none">&nbsp</td>	
+                        <td>11:00</td>
+	                <td>2</td>
+	                <td>6</td>
+	          </tr>
+    <tr>
+			<td>SATURDAY	</td>
+			<td>10/25/14	</td>
+		        <td style="border:none">&nbsp</td>
+			<td style="border:none">&nbsp</td>
+			<td style="border:none">&nbsp</td>
+                  </tr>
+<tr>
+			<td style="border:none">&nbsp</td>
+                       	<td style="border:none">&nbsp</td>	
+                        <td>9:00</td>
+	                <td>4</td>
+	                <td>1</td>
+	          </tr>
+<tr>
+			<td style="border:none">&nbsp</td>
+                       	<td style="border:none">&nbsp</td>	
+                        <td>10:00</td>
+	                <td>6</td>
+	                <td>5</td>
+	          </tr>
+<tr>
+			<td style="border:none">&nbsp</td>
+                       	<td style="border:none">&nbsp</td>	
+                        <td>11:00</td>
+	                <td>3</td>
+	                <td>2</td>
+	          </tr>
+    <tr>
+			<td>SATURDAY	</td>
+			<td>11/01/14	</td>
+		        <td style="border:none">&nbsp</td>
+			<td style="border:none">&nbsp</td>
+			<td style="border:none">&nbsp</td>
+                  </tr>
+<tr>
+			<td style="border:none">&nbsp</td>
+                       	<td style="border:none">&nbsp</td>	
+                        <td>9:00</td>
+	                <td>2</td>
+	                <td>4</td>
+	          </tr>
+<tr>
+			<td style="border:none">&nbsp</td>
+                       	<td style="border:none">&nbsp</td>	
+                        <td>10:00</td>
+	                <td>1</td>
+	                <td>5</td>
+	          </tr>
+<tr>
+			<td style="border:none">&nbsp</td>
+                       	<td style="border:none">&nbsp</td>	
+                        <td>11:00</td>
+	                <td>3</td>
+	                <td>6</td>
+	          </tr>
+    <tr>
+			<td>SATURDAY	</td>
+			<td>11/08/14	</td>
+		        <td style="border:none">&nbsp</td>
+			<td style="border:none">&nbsp</td>
+			<td style="border:none">&nbsp</td>
+                  </tr>
+<tr>
+			<td style="border:none">&nbsp</td>
+                       	<td style="border:none">&nbsp</td>	
+                        <td>12:00</td>
+	                <td>4</td>
+	                <td>3</td>
+	          </tr>
+<tr>
+			<td style="border:none">&nbsp</td>
+                       	<td style="border:none">&nbsp</td>	
+                        <td>1:00</td>
+	                <td>5</td>
+	                <td>2</td>
+	          </tr>
+<tr>
+			<td style="border:none">&nbsp</td>
+                       	<td style="border:none">&nbsp</td>	
+                        <td>2:00</td>
+	                <td>6</td>
+	                <td>1</td>
+	          </tr>
+</tbody>
+   </table>
+</div><div style="clear:both;height:10px">&nbsp;</div>
+<table class="tableizer-table">
+      <tbody>
+		<tr class="tableizer-firstrow">
+			<th colspan="12">&nbsp;Coaches&nbsp;</th>
+		</tr>
+		<tr> 
+<td>0</td>
+<td> Coach Bogie</td>
+<td>1</td>
+<td> Coach Doherty/Coach Adams</td>
+<td>2</td>
+<td> Coach Coakley</td>
+<td>3</td>
+<td> Coach Young</td>
+<td>4</td>
+<td> Coach Smith</td>
+<td>5</td>
+<td> Coach Monaghan</td>
+</tr>
+	</tbody>
+    </table> 
+<p>&nbsp;</p><h1>Director:  Bob Bogie</h1>
